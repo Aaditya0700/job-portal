@@ -33,7 +33,7 @@ A full-stack job portal built with the MERN stack where students can find and ap
 - Nodemailer
 
 ## 📸 Screenshots
-![Homepage](screenshots/home.png)
+![Homepage](ScreenShot/Home.png)
 
 ## ⚙️ Installation
 
